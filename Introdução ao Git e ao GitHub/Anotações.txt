@@ -1,0 +1,6 @@
+Link para download do Git: https://git-scm.com/download/win
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Link para download do VSCode:https://code.visualstudio.com/download
+VSCode é um editor de codigo open source
+
