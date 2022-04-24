@@ -1,6 +1,6 @@
 ## Professora: Juliana Mascarenhas 
 
-## GitHub: /lulianazanelatto
+## GitHub: /julianazanelatto
 
 ## Objetivo 
 	
