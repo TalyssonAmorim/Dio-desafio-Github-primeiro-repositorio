@@ -1,0 +1,20 @@
+## Professor (a): Lucas Vilaboim
+
+## GitHub: /vilaboim
+
+## Objetivos 
+
+	Criar regras de estilos para elementos ou grupos de elementos
+	
+	- O que são seletores
+	- Conceitos básicos
+	- Principais seletores	
+
+## ID x Classe
+
+	ID = # (Só pode ser utilizado uma vez na pagina)
+
+	Class - .
+
+
+
