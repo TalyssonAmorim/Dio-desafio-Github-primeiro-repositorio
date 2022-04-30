@@ -16,5 +16,11 @@
 
 	Class - .
 
+## Box model 
 
+	Margin = espaçamento entre elementos
+	border = envolvem o padding e o content
+	paddin = espaçamento entre a borda e o conteudo
+	content= conteudo que o bloco representa
+	
 
