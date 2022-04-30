@@ -19,8 +19,13 @@
 ## Box model 
 
 	Margin = espaçamento entre elementos
-	border = envolvem o padding e o content
-	paddin = espaçamento entre a borda e o conteudo
-	content= conteudo que o bloco representa
-	
+	Border = envolvem o padding e o content
+	Paddin = espaçamento entre a borda e o conteudo
+	Content= conteudo que o bloco representa
+
+## Obs
+
+	Valores individuais são atribuidos em sentido horario.
+	Valor 0 nao necessita de unidade
+	É uma boa pratica manter margens sempre na mesma direção
 
