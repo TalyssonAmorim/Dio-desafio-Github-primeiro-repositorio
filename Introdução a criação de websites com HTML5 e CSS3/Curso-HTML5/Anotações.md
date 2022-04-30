@@ -19,7 +19,7 @@
 	Utilizados para substituir <div>
 ## Obs
 
-	- Tag <p></p> suporta imagens, videos e codigo.
+	- Tag <p></p> suporta imagens, videos e codigo
 	
 	 
 
