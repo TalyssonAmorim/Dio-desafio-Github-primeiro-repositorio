@@ -4,7 +4,10 @@ html {
 .navbar {
     background-color: #338313;
 }
+ .quem-somos {
+    background-color: blue;
+ }
 
-.navbar-brand {
-    margin-left: 15px;
+.margin {
+    padding-top: 30px;
 }
