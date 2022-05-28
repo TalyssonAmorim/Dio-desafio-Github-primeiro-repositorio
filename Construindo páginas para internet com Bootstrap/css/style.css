@@ -2,11 +2,10 @@ body {
     font: 20px Arial,sans-serif;
 }
 .navbar {
-    background-color: #298A08;
+    background-color: #794A0B;
+    padding-left: 10px;
 }
-.nav-image {
-    margin-left: 30px;
-}
+
  .quem-somos {
     background-color: #8181F7;
     color: white;
@@ -14,10 +13,20 @@ body {
  }
 
 .margin {
-    padding-bottom: 50px;
-    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
 }
 
 .parceiros {
-    background-color: #58FAF4
+    background-color: #58FAF4;
+    color: white;
+}
+
+.bg-footer {
+    background-color: #000;
+    color: white;
+}
+
+.txt {
+    padding-top: 20px;
 }
